@@ -1,8 +1,6 @@
 ### Hi there 👋
 ![Alt Text](https://github.com/FlyingWorkshop/Desmos-Creations/blob/main/complex_phase_spiral.gif)
 
-<img src="https://github.com/FlyingWorkshop/Desmos-Creations/blob/main/butterfly_network.gif" width="250">
-
 <!--
 **FlyingWorkshop/FlyingWorkshop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
