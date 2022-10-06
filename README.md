@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Logan. Thanks for stopping by! I love looking at the world through math and creating cool graphs on Desmos. Here's a cool GIF of a graph that I'm particularly proud of:  
+My name is Logan. Thanks for stopping by! As a reward, here's a cool graph I made on Desmos:  
 ![Alt Text](https://github.com/FlyingWorkshop/Desmos-Creations/blob/main/complex_phase_spiral.gif)  
 Please feel free to explore the repos and reach out to me if you want to discuss anything!
 <!--
