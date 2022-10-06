@@ -1,6 +1,8 @@
 ### Hi there 👋
-![Alt Text](https://github.com/FlyingWorkshop/Desmos-Creations/blob/main/complex_phase_spiral.gif)
 
+My name is Logan. Thanks for stopping by! I love looking at the world through math and creating cool graphs on Desmos. Here's a cool GIF of a graph that I'm particularly proud of:
+![Alt Text](https://github.com/FlyingWorkshop/Desmos-Creations/blob/main/complex_phase_spiral.gif)
+Please feel free to explore the repos and reach out to me if you want to discuss anything!
 <!--
 **FlyingWorkshop/FlyingWorkshop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
