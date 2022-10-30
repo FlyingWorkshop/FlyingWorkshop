@@ -3,6 +3,9 @@
 My name is Logan (罗根). Thanks for stopping by! As a reward, here's a cool graph I made on Desmos:  
 
   ![Alt Text](https://github.com/FlyingWorkshop/Desmos-Creations/blob/main/complex_phase_spiral.gif)
+  
+   ![Alt Text](https://github.com/FlyingWorkshop/Desmos-Creations/blob/main/butterfly_network.gif)
+
 
 Please feel free to explore the repos and reach out to me if you want to discuss anything!
 <!--
