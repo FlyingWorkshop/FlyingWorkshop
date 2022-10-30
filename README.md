@@ -4,8 +4,9 @@ My name is Logan (罗根). Thanks for stopping by! As a reward, here's a cool gr
 
   ![Alt Text](https://github.com/FlyingWorkshop/Desmos-Creations/blob/main/complex_phase_spiral.gif)
   
-   ![Alt Text](https://github.com/FlyingWorkshop/Desmos-Creations/blob/main/butterfly_network.gif)
-
+<p align="center">
+<img src="https://github.com/FlyingWorkshop/Desmos-Creations/blob/main/butterfly_network.gif" alt="Butterfly Network generation!"/>
+</p>
 
 Please feel free to explore the repos and reach out to me if you want to discuss anything!
 <!--
