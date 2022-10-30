@@ -1,6 +1,6 @@
 ### Hi there! 大家好! 👋🏽
 
-My name is Logan. Thanks for stopping by! As a reward, here's a cool graph I made on Desmos:  
+My name is Logan (罗根). Thanks for stopping by! As a reward, here's a cool graph I made on Desmos:  
 
   ![Alt Text](https://github.com/FlyingWorkshop/Desmos-Creations/blob/main/complex_phase_spiral.gif)
 
