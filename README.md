@@ -2,11 +2,12 @@
 
 My name is Logan (罗根). Thanks for stopping by! As a reward, here are two cool graphs I made on Desmos:
 
-## Complex Eigenvalue Differential System Phase Portrait
+#### Complex Eigenvalue Differential System Phase Portrait
 <p align="center">
 <img src="https://github.com/FlyingWorkshop/Desmos-Creations/blob/main/complex_phase_spiral.gif" alt="Butterfly Network generation!"/>
 </p> 
-## Butterfly Network Generator
+
+#### Butterfly Network Generator
 <p align="center">
 <img src="https://github.com/FlyingWorkshop/Desmos-Creations/blob/main/butterfly_network.gif" alt="Butterfly Network generation!"/>
 </p>
