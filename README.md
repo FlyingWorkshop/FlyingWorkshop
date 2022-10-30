@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 大家好! 👋🏽
 
 My name is Logan. Thanks for stopping by! As a reward, here's a cool graph I made on Desmos:  
 
