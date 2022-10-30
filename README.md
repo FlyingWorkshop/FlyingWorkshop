@@ -1,18 +1,16 @@
 ### Hi there! 大家好! 👋🏽
 
-My name is Logan (罗根). Thanks for stopping by! As a reward, here are two cool graphs I made on Desmos:
-
-#### Complex Eigenvalue Differential System Phase Portrait
+My name is Logan (罗根). Thanks for stopping by! As a reward, here are two cool graphs I made on Desmos of a complex eigenvalue differential system phase portrait:
 <p align="center">
 <img src="https://github.com/FlyingWorkshop/Desmos-Creations/blob/main/complex_phase_spiral.gif" alt="Butterfly Network generation!"/>
 </p> 
 
-#### Butterfly Network Generator
+<!-- #### Butterfly Network Generator
 <p align="center">
 <img src="https://github.com/FlyingWorkshop/Desmos-Creations/blob/main/butterfly_network.gif" alt="Butterfly Network generation!"/>
-</p>
+</p> -->
 
-Please feel free to explore the repos and reach out to me if you want to discuss anything!
+<!-- Please feel free to explore the repos and reach out to me if you want to discuss anything! -->
 <!--
 **FlyingWorkshop/FlyingWorkshop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
