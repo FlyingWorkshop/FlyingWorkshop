@@ -6,6 +6,8 @@ cool graph I made on Desmos of a phase portrait for a system with complex eigenv
 <img src="https://github.com/FlyingWorkshop/Desmos-Creations/blob/main/complex_phase_spiral.gif" alt="Butterfly Network generation!"/>
 </p> 
 
+If you're looking for the Econ 136 course reader, it can be found [here](https://flyingworkshop.github.io/market-design/intro.html). The CS 109 course reader is [here](https://chrispiech.github.io/probabilityForComputerScientists/en/).
+
 <!-- #### Butterfly Network Generator
 <p align="center">
 <img src="https://github.com/FlyingWorkshop/Desmos-Creations/blob/main/butterfly_network.gif" alt="Butterfly Network generation!"/>
