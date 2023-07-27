@@ -1,6 +1,7 @@
 ### Hi there! 大家好! 👋🏽
 
-My name is Logan (罗根). Thanks for stopping by! As a reward, here is a cool graphs I made on Desmos of a complex eigenvalue differential system phase portrait:
+My name is Logan (罗根). I study AI, math, and econ at Stanford. As a reward for discovering this page, here is a 
+cool graph I made on Desmos of a phase portrait for a system with complex eigenvalues:
 <p align="center">
 <img src="https://github.com/FlyingWorkshop/Desmos-Creations/blob/main/complex_phase_spiral.gif" alt="Butterfly Network generation!"/>
 </p> 
