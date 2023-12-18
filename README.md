@@ -1,3 +1,5 @@
+Visit my [personal website](https://flyingworkshop.github.io/logan-mondal-bhamidipaty/)!
+
 ### Hi there! 大家好! 👋🏽
 
 My name is Logan (罗根). I study AI, math, and econ at Stanford. As a reward for discovering this page, here is a 
