@@ -1,6 +1,6 @@
 ### Hi there! 大家好! 👋🏽
 
-My name is [Logan Mondal Bhamidipaty (罗根)](https://flyingworkshop.github.io/logan-mondal-bhamidipaty/). I study AI, math, and econ at Stanford. As a reward for discovering this page, here is a cool graph I made on Desmos of a phase portrait for a system with complex eigenvalues:
+My name is [Logan Mondal Bhamidipaty (罗根)](https://logan-mondal-bhamidipaty.com/). I study AI, math, and econ at Stanford. As a reward for discovering this page, here is a cool graph I made on Desmos of a phase portrait for a system with complex eigenvalues:
 <p align="center">
 <img src="https://github.com/FlyingWorkshop/Desmos-Creations/blob/main/complex_phase_spiral.gif" alt="Butterfly Network generation!"/>
 </p> 
